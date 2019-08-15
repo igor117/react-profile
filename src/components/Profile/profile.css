@@ -1,0 +1,104 @@
+.info {
+    background: #fff;
+    text-align: center;
+    padding: 38px 65px;
+    border-top: solid #9B9B9B;
+    border-bottom: solid #9B9B9B;
+    border-width: 1px;    
+}
+
+.info img {
+    width: 111px;
+    height: 111px;
+    margin-bottom: 1rem;
+    border-radius: 50%;
+    display: block;
+    box-shadow: 0 0 0.0625rem rgba(0, 0, 0, 0.5);
+}
+
+.info h2 a {
+    font-size: 1.65rem;    
+}
+
+.info h3 {
+    font-size: 1.1885rem;
+    color: #bdcbce;
+}
+
+.state {    
+    width: 100%;
+    height: 90px;
+    display: flex;
+    flex-direction: row;
+}
+
+.state li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+.state i {
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-style: normal;
+    display: block;
+}
+
+.notFound {
+    background: #fff;
+    padding: 1.875rem;
+    text-align: center;
+}
+
+.notFound h2 {
+    font-size: 2rem;    
+    margin-bottom: .625rem;
+}
+
+.name {
+    font-size: 24px;
+    color: #3E4D57;
+    text-align: center;
+}
+
+.nameContainer {
+    margin-top: 14px;
+    margin-bottom: 5px;
+}
+
+.title {
+    text-align: center;
+    font-size: 17px;
+    color: #707070; 
+}
+
+.section {
+   display: flex;
+   flex: 1;
+   justify-content: center;
+   align-items: center;
+}
+
+.footerTitle {
+    font-size: 30px;
+    color: #555555;
+    text-align: center;
+    line-height: 22px;
+    margin-bottom: 5px;
+}
+
+.footerSummary {
+    font-size: 14px;    
+    color: #9F9F9F;
+    line-height: 22px;
+    text-align: center;
+}
+
+.footerTitleStar {
+    font-size: 20px;
+    color: #555555;
+    text-align: center;
+    line-height: 22px;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,22 @@
+.root {
+    padding: 30px 34px;
+    display: flex;
+    justify-content: space-between;
+    background: #EFEFEF;
+}
+
+.red-heart {
+    color: #F03A47;
+}
+
+.heartBtn {
+    border: none;
+    font-size: 25px; 
+    background: #EFEFEF;    
+}
+
+.profileTitle {
+    font-size: 27px;
+    color: #4A4A4A;
+}
+
